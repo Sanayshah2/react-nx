@@ -1,4 +1,4 @@
-# MyWorkspace
+as# MyWorkspace
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
@@ -50,7 +50,7 @@ Pass `--dry-run` to see what would happen without actually releasing the library
 ## Keep TypeScript project references up to date
 
 Nx automatically updates TypeScript [project references](https://www.typescriptlang.org/docs/handbook/project-references.html) in `tsconfig.json` files to ensure they remain accurate based on your project dependencies (`import` or `require` statements). This sync is automatically done when running tasks such as `build` or `typecheck`, which require updated references to function correctly.
-
+dasd
 To manually trigger the process to sync the project graph dependencies information to the TypeScript project references, run the following command:
 
 ```sh
