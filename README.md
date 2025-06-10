@@ -21,7 +21,7 @@ npx nx g @nx/js:lib packages/pkg1 --publishable --importPath=@my-org/pkg1
 
 To build the library use:
 
-```sh
+```shasdasd
 npx nx build pkg1
 ```
 
